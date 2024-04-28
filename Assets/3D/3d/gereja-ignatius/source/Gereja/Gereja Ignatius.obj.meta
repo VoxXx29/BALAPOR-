@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 8938a388564c00148990f1355b1055bb
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 212449dc52048fd428c01f7844163ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: bcd772894311e734da6653d3f520a731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 48213826414ea3c4fba270f8ca20d247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 9922976f5bf0a9249b63cbb618ad98cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 357b8a40829b70c4eb617e67fd9799fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: f776ca6fd09ce8641b35dbbf28c5541e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 4d548c14c7261b446a84f52a0cddda92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 42d00aeda91d854429eca5db73d85795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh18_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 2142477e478581949b982334dd60280a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh19_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 43f30a2ad9257104fa2135cda667fa32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 53e03770dfe7e4d4daabb91e7a386809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh20_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 5437aac6dbe636f41bed6adc2c8c9573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh21_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 18bb1479baefcd04a89a6df07e71e9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh22_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 361bd95778f027e45925ee8dcdd50fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh23_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 78a875f945ac7ad45aada3b5a866bc1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh24_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: bd8b81a11857e8e4cbc62b831561eee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh25_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 094ae3c8c9f367449ac460a3c74aa2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh26_Niraj1_ModelMat
+    second: {fileID: 2100000, guid: 6c338b91a391733448bbd8e304caf951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh27_ModelMat
+    second: {fileID: 2100000, guid: 48cd1c83245057741b17e7643ac3d111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh28_ModelMat
+    second: {fileID: 2100000, guid: 5208f7a4754b325479956bf7ce776d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh29_ModelMat
+    second: {fileID: 2100000, guid: 1402914f2cc96bd459d6649177efc547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: cc547b06394d7a04fb981a34aadc71c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh30_ModelMat
+    second: {fileID: 2100000, guid: 4f383cd81a8f5f5469334aaa4fbe7e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh31_ModelMat
+    second: {fileID: 2100000, guid: 5339b6224b9fe1c418f7a923b6d33729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: de49476f6e551e54aadb3d8b00e34b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: eb2b9273cd9d69a4cb695f0e11806fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 65ecfedd850cba141be16f0a562550b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 9758c21268bb49c46a5c6fd8f48be6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: 2302bcef85ca0bc41966df522ad3f9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: f4e733683f99cf44688bcd183d0c8ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh9_GEREJA_KATOLIK_S1_ModelMat
+    second: {fileID: 2100000, guid: acb7bc92768d6f646a11991de9c2e18b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
